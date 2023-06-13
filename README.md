@@ -16,6 +16,6 @@ Purchase Frequency = Total Transaction / Total Number of Customers
 
 Churn Rate = 1 - Repeat Rate
 
+RepeatRate = Number of Customers Who Have Shopped More Than Once/ Total Number of Customers
 
-![Formula](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/35450932-0fa1-492e-bb2b-e76454ec08f4/Untitled.png)
-RepeatRate = Birden Fazla Alışveriş Yapan Müşteri Sayısı / Tüm Müşteriler
+When grouping is done by sorting according to the CLTV value to be obtained as a result of these processes and dividing from certain points, our customers are divided into segments.
