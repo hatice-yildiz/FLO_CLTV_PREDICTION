@@ -52,7 +52,7 @@ from sklearn.preprocessing import MinMaxScaler
 
 # Adım1:flo_data_20K.csv verisini okuyunuz.Dataframe’in kopyasını oluşturunuz.
 
-df_ = pd.read_csv(r"C:\Users\PC\Desktop\DSMLBC-DataBusters\Hafta 4\FLO_CLTV_Tahmini\flo_data_20k.csv")
+df_ = pd.read_csv("flo_data_20k.csv")
 df = df_.copy()
 
 #Adım2: Aykırı değerleri baskılamak için gerekli olan outlier_thresholds ve
