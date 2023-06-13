@@ -6,8 +6,16 @@ CLTV is the monetary value that a customer brings to a company over the course o
 2. It is a helpful signal for product customization.
 3. Contributes to budget planning for customer acquisition and/or retention
 
-CLTV = (Customer Value/Churn Rate)*ProfitMargin
+Customer Value = Average Order Value * Purchase Frequency 
 
-![Formula](https://www.notion.so/CRM-Analiti-i-b3768892c8c242f5be273a1d32a00153?pvs=4#990f012d5e1a409d8fd2e2ce621de03b)
+We perform all operations based on the Customer Value.
 
-![Formula](https://www.notion.so/CRM-Analiti-i-b3768892c8c242f5be273a1d32a00153?pvs=4#439ede0bf2304b9cb959cb64c9094b29)
+Average Order Value = Total Price / Total Transaction
+
+Purchase Frequency = Total Transaction / Total Number of Customers
+
+Churn Rate = 1 - Repeat Rate
+
+
+![Formula](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/35450932-0fa1-492e-bb2b-e76454ec08f4/Untitled.png)
+RepeatRate = Birden Fazla Alışveriş Yapan Müşteri Sayısı / Tüm Müşteriler
