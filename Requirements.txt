@@ -1,0 +1,7 @@
+
+Python Version == 3.10.8 
+
+Pandas Version == 1.5.2
+NumPy Version ==  1.24.1
+Matplotlib Version == 3.6.
+Lifetimes Version == 0.11.3\
